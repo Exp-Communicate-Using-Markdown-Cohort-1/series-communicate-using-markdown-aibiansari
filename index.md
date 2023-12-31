@@ -2,7 +2,7 @@
 This is my Markdowned File!
 
 ##### Image
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image xoxo](https://octodex.github.com/images/yaktocat.png)
 
 ##### Code
 ```
