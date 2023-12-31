@@ -1,6 +1,15 @@
 # My Markdown File
 This is my Markdowned File!
-## Heading 1
-Heading 1 content
-##### Heading 2
-Heading 2 content
+
+##### Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+##### Code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+##### Checkbox
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
